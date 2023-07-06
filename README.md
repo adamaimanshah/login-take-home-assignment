@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Login Take Home Assignment ReGovTech
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a login take home assesment for ReGovTech 
 
 ## Available Scripts
 
